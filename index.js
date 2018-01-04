@@ -20,4 +20,8 @@ function appendKitten(name){
   //text
 }
 
+function prependKitten(name){
+  //text
+}
+
 function 
