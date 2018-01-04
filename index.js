@@ -4,3 +4,8 @@ function destructivelyAppendKitten(name){
   //text
 }
 
+function destructivelyPrependKitten(name){
+  //text
+}
+
+function 
