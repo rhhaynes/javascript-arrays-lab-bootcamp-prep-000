@@ -1,19 +1,19 @@
 const app = "I don't do much."
 
 function destructivelyAppendKitten(name){
-  //text
+  kittens.push(name)
 }
 
 function destructivelyPrependKitten(name){
-  //text
+  kittens.unshift(name)
 }
 
 function destructivelyRemoveLastKitten(){
-  //text
+  kittens.pop()
 }
 
 function destructivelyRemoveFirstKitten(){
-  //text
+  kittens.shift()
 }
 
 function appendKitten(name){
