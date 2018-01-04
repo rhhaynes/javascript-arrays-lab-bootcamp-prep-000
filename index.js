@@ -22,11 +22,13 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  //text
+  var kittensNew = [name,...kittens]
+  return kittensNew
 }
 
 function removeLastKitten(){
-  //text
+  var kittensNew = kittens.slice(0,kittens.length-1)
+  return kittensNew
 }
 
 function removeFirstKitten(){
