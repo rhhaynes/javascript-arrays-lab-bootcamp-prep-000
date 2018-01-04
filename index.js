@@ -24,4 +24,8 @@ function prependKitten(name){
   //text
 }
 
+function removeLastKitten(){
+  //text
+}
+
 function 
